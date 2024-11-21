@@ -44,5 +44,5 @@ From the Data preprocessing step, I was able to garnered the basic understanding
 - Constructing the Confusion Matrix
 - finding the classification report
 
-### [View my code](Breast-Cancer-Prediction.ipynb)
+### [View my code](https://github.com/AdeyanjuPearl/Breast_Cancer_Prediction/blob/main/Breast%20Cancer%20Prediction.ipynb)
  
