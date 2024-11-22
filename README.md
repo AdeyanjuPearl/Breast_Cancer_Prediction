@@ -4,33 +4,33 @@
 The project aims to build a KNN model to classify a patient's breast mass as either benign or malignant based on the clinical features recorded after analyzing the cell nuclei of the breast mass through fine needle aspiration.
 
 ### Data Source:
-The Wiscosin Breast Cancer dataset downloaded from Kaggle was used for this project. The dataset consist of 11 columns and 699 rows.
+The Wisconsin Breast Cancer dataset downloaded from Kaggle was used for this project. The dataset consists of 11 columns and 699 rows.
 
 ### Tools: 
 - Excel: for data warehousing
 - Python: for Model development, training and evaluation
--Jupyter Notebook
+- Jupyter Notebook
 
 ### Data Exploration
 
-After creating a Jupyter Notebook file for this project, the following data exporation tasks were performed:
-Data loading and inspection through statistical summary and graphical view.
-Identifying Handling outliers
-Checking for missing values
-Removing redundant variables
-Converting data types
+After creating a Jupyter Notebook file for this project, the following data exploration tasks were performed:
+- Data loading and inspection through statistical summary and graphical view.
+- Identifying Handling outliers
+- Checking for missing values
+- Removing redundant variables
+- Converting data types
 
 ### Data Visualisation
 
-From the Data preprocessing step, I was able to garnered the basic understanding of the dataset. However, I will use visuals to get a deeper insight by plotting the following graphs
--Univariate-Histogram
--Multivariate- Correlation heat map
+From the data preprocessing step, I was able to garner a basic understanding of the dataset. However, I will use visuals to get a deeper insight by plotting the following graphs
+- Univariate-Histogram
+- Multivariate- Correlation heat map
 
 ### Data Preprocessing
--Declaring the Feature Vector and the Target Class
--Splitting the dataset into training and test set
--Feature Engineering- Handling missing values using median imputation assuming they are missing completely at random.
--Feature Scaling
+- Declaring the Feature Vector and the Target Class
+- Splitting the dataset into training and test set
+- Feature Engineering- Handling missing values using median imputation assuming they are missing completely at random.
+- Feature Scaling
 
 ### Model Development
 - Model training: the feature vectors and the Target Class in the training set are fed into the KNeigbour Classifier using K=3
