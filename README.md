@@ -1,4 +1,4 @@
-# Breast_Cancer_Prediction
+# Breast Cancer Prediction
 
 ### Project Overview-
 The project aims to build a KNN model to classify a patient's breast mass as either benign or malignant based on the clinical features recorded after analyzing the cell nuclei of the breast mass through fine needle aspiration.
